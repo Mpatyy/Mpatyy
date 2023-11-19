@@ -11,10 +11,11 @@ Introducción a los lenguajes de marcas
 
 a.Realizar esta operación al menos con dos navegadores diferentes,capturar las pantallas obtenidas y comentar las diferencias observadas.
 Google chrome
-![captura1](https://github.com/DW1A/jorgedominguez/assets/145561025/f278b1a5-dcb1-4cdb-9367-46f74e65b199)
+![image](https://github.com/Mpatyy/Mpatyy/assets/145560659/54023c9e-1e9a-4b33-b1d9-bef9d070ee9f)
 
 Microsoft Edge
-![captura2](https://github.com/DW1A/jorgedominguez/assets/145561025/f93ad577-1e99-43bb-aded-b08b94d5c3ac)
+![image](https://github.com/Mpatyy/Mpatyy/assets/145560659/fc28275a-bef5-4942-b1f1-3bf099e0461c)
+
 
 b.Investiga un poco y trata de identificar el significado de 3 etiquetas que veas en el código.
 - <html>: etiqueta que define el inicio y el fin de un documento HTML.
